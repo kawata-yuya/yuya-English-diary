@@ -8,4 +8,6 @@
 - 英語が嫌なら10文日本語で書くこと.
 - 公開レポジトリとすること.
 
-
+# License
+This repository is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+For more information, visit [Creative Commons](https://creativecommons.org/licenses/by-nc/4.0/).
